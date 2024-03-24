@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "timer.h": "c",
+        "cstddef": "c",
+        "errors.h": "c",
+        "mouse.h": "c",
+        "graphics.h": "c",
+        "kbc_macros.h": "c",
+        "kbd.h": "c",
+        "utils.h": "c",
+        "lcf.h": "c",
+        "kbc.h": "c",
+        "sprite.h": "c",
+        "__tree": "c",
+        "map": "c",
+        "aux_functions.h": "c",
+        "libraries.h": "c",
+        "graphics_macros.h": "c",
+        "liblm.h": "c",
+        "player.h": "c",
+        "*.xpm": "c"
+    }
+}
